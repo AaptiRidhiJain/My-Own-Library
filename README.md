@@ -1,2 +1,2 @@
-# My-Own-Library
-Here, I created my own Library using Visual Code Studio including bounceOff and isTouching functions!!!...
+# collisionAlgorithm
+Algorithm to detect collision between two objects
